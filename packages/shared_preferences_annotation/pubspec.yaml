@@ -1,7 +1,8 @@
 name: shared_preferences_annotation
 description: "Annotations for the shared_preferences_gen code-generator. This package does nothing without shared_preferences_gen too."
-homepage: https://github.com/TesteurManiak/shared_preferences_gen
-repository: https://github.com/TesteurManiak/shared_preferences_gen/tree/main/packages/shared_preferences_annotation
+
+homepage: https://github.com/Ahnaf16/shared_preferences_gen
+repository: https://github.com/Ahnaf16/shared_preferences_gen/tree/main/packages/shared_preferences_annotation
 topics:
   - codegen
   - build-runner
