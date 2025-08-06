@@ -14,3 +14,6 @@ coverage/
 **/.flutter-plugins
 
 **/pubspec_overrides.yaml
+
+# FVM Version Cache
+.fvm/

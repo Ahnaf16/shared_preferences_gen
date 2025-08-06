@@ -1,6 +1,5 @@
 name: shared_preferences_annotation
 description: "Annotations for the shared_preferences_gen code-generator. This package does nothing without shared_preferences_gen too."
-version: 0.2.0
 homepage: https://github.com/TesteurManiak/shared_preferences_gen
 repository: https://github.com/TesteurManiak/shared_preferences_gen/tree/main/packages/shared_preferences_annotation
 topics:
@@ -8,8 +7,12 @@ topics:
   - build-runner
   - shared-preferences
 
+publish_to: none
+
+version: 0.2.0
+
 environment:
-  sdk: ">=3.4.1 <4.0.0"
+  sdk: ^3.8.1
 
 dev_dependencies:
   lints: ^5.1.1
