@@ -1,4 +1,0 @@
-global_options:
-  json_serializable:
-    runs_before:
-      - shared_preferences_gen
